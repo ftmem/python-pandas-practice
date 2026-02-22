@@ -1,0 +1,10 @@
+🟦 Day 1 — Variables & Input/Output
+Concepts
+
+Variable: a storage for a value.
+
+input(): get user input (always returns string).
+
+int(): convert string to integer.
+
+print(): display output on the screen.
