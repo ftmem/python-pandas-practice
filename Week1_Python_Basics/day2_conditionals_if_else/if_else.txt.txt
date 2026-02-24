@@ -1,0 +1,10 @@
+🟦 Day 2 — Conditionals (if/else)
+Concepts
+
+if: executes code if condition is True.
+
+elif: else-if, checks another condition if previous was False.
+
+else: executes if all previous conditions are False.
+
+Conditions: can use >, <, >=, <=, == and combine with and/or.

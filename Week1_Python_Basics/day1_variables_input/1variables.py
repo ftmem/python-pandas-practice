@@ -1,11 +1,9 @@
 #Define variables
-
 # Store basic info
 name = "Ali"   # store name
 age = 25       # store age
 print("Name:", name)
 print("Age:", age)
-##########################
 
 # Store another person's info
 name = "Sara"

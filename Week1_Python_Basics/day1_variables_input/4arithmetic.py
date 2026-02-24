@@ -17,8 +17,6 @@ print("Sum:", sum_total)
 print("Difference:", difference)
 print("Product:", product)
 
-
-
 ################################
 a = int(input("First number: "))
 b = int(input("Second number: "))
