@@ -1,7 +1,7 @@
 #Define variables
 # Store basic info
 name = "Ali"   # store name
-age = 25       # store age
+age = 18       # store age
 print("Name:", name)
 print("Age:", age)
 
